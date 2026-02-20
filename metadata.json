@@ -1,0 +1,7 @@
+{
+  "name": "BookPro AI",
+  "description": "Transform any book into a professional mastery suite with executive summaries, deep-dive analysis, visual concept maps, and high-quality AI narration.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
